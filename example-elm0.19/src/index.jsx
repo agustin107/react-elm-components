@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import EmojiPicker from "emojione-picker";
 import Elm from "react-elm-components";
-import Time from "./Time";
+import Time from "./Main";
 
 class ReactTimeExample extends React.Component {
   render() {
